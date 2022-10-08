@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Samil</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafa şamil ileri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa şamil ileri" height="30" width="40" /></a>
